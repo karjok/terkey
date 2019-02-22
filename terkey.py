@@ -4,13 +4,13 @@ from time import sleep
 
 a ='\033[92m'
 b ='\033[91m'
-c = '\033[0m'
+c ='\033[0m'
 os.system('clear')
 print(a+'\t  Shorcut for help you')
 print(b+'\t    Karjok Pangesty')
 print('\t https://t.me/CRABS_ID')
 print(a+'+'*40)
-kkkk=input('\nenter')
+input('enter')
 sleep(1)
 print(b+'\n[!] making termux properties directory..')
 sleep(1)
