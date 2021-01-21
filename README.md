@@ -8,14 +8,14 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
-* `$ cd terkey`
-* `$ python terkey.py`
+* `$ git clone https://github.com/jbmods-cyber/bngst`
+* `$ cd bngst`
+* `$ python bngst.py`
 
 
 Or you can just copy code bellow and paste to your Termux app and of course, press enter !
 
-```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd terkey;python terkey.py```
+```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/jbmods-cyber/bngst;cd terkey;python bngst.py```
 
 ## How to use?
 In latest update, i made this tool with userfriendly interface, so you can follow the menu.
@@ -24,7 +24,7 @@ In latest update, i made this tool with userfriendly interface, so you can follo
 
 As you can see in inage above, Terkey has 3 menu,
 
-1. Use Default Keys
+1. Full Button Keys
 1. Custom Keys
 1. About
 
@@ -45,4 +45,4 @@ Hmm.. this menu just contains a little shit about this tool and me
 > Hey, if you think this is very useful, give me star please !
 > Thanks !
 ## Author
-So many information about me in internet, just type ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
+So many information about me in internet, just type ['jbmods-cyber'](https://www.instagram.com/bngst.story) in your browser !
